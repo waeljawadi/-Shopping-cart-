@@ -1,0 +1,60 @@
+body
+{
+    background: #7ec855;
+}
+.list
+{
+    background: white;
+    margin-top:20%;
+    padding: 0px;
+}
+.total {
+    color: #aab8c2;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-bottom:0.5px solid rgba(170, 184, 194, 0.42);
+    margin-bottom: 0px;
+}
+.one_item
+{
+    border-bottom: 0.5px solid rgba(170, 184, 194, 0.42);
+    min-height: 100px
+
+}
+.one_item {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 29px;
+    margin-left: 5px;
+    margin-right: 10px;
+    text-align: center;
+}
+.fas
+{
+    color: rgba(170, 184, 194, 0.6)
+}
+
+.fas:hover
+{
+    color: rgba(170, 184, 194, 1);
+    cursor: pointer;
+}
+.le_prix
+{
+    color: rgba(170, 184, 194, 1);
+}
+
+
+
+
+
+
+
+
+
+
