@@ -49,9 +49,10 @@ input[type="text"] {
     color: rgba(170, 184, 194, 1);
 }
 
-
-
-
+#fff
+{
+    overflow: hidden;
+}
 
 
 
